@@ -9,7 +9,7 @@ to invoke the pipfile environment
 
 ### Api Walkthough GIF
 
-<img src="https://recordit.co/hLHYfMuqtu" width=250><br>
+https://recordit.co/hLHYfMuqtu
 
 * [x]  GIF of the challenge 1(REST API)in demonstration:
 
