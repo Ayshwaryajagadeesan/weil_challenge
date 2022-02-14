@@ -58,6 +58,8 @@ command to run the docker image in debug environment
 
 ### Api Walkthough GIF
 
+https://recordit.co/FSqNUyehzU
+
 
 * [x] For this challenge, you will take the application from the previous challenge, build a docker
 image from it, and run the application as a container using docker-compose.
