@@ -1,11 +1,15 @@
 # Challenge1: Develop The API
 
-to run the api 
 
+to invoke the pipfile environment
 
 pipenv shell
 
-to invoke the pipfile environment
+
+to run the api 
+
+python app.py
+
 
 ### Api Walkthough GIF
 
