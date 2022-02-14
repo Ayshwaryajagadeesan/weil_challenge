@@ -46,3 +46,13 @@ with the rationale for those decisions
 
 * [x] Any other scripts with useful commands that you find yourself using repeatedly during
 development
+
+# Challenge 2:
+command To build docker image
+
+<b>docker build . -t flask_app_dev</b>
+
+command to run the docker image in debug environment
+
+<b>docker run -p 5000:5000 -e DEBUG=1 flask_app_dev</b>
+
